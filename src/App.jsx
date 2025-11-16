@@ -1,12 +1,13 @@
 
 import React from "react";
-import ChatApp from "./AiComponent/ChatApp";
+import ChatApp from "./ChatApp";
+
 
 function App(){
   return(
 
     <>
-    <ChatApp/>
+   <ChatApp/>
     </>
   )
 }
