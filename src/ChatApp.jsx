@@ -176,7 +176,7 @@ function ChatApp() {
                     marginBottom: 15,
                     color: '#1f2937',
                 }}>
-                    ✨ Sanath AI
+                    ✨ Nexa AI
                 </h2>
                 
                 <hr style={{ border: 'none', borderTop: '1px solid #e5e7eb', marginBottom: '15px' }} />
