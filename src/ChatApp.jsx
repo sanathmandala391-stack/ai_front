@@ -107,7 +107,7 @@ function ChatApp() {
         const aiIndex = messages.length + 1; 
 
         try {
-            const res = await fetch("https://ai-e4er.onrender.com/chat", {
+            const res = await fetch("https://gemini-trwm.onrender.com/chat", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ message: userMessage }),
